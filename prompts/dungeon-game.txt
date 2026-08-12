@@ -28,7 +28,7 @@ You must implement a 2D grid array representing the map states (0 = Floor, 1 = W
    - Trace rules: Mark cells along the line as "Revealed". If the line hits a cell marked as a Wall, immediately stop tracing that ray further (blocking vision behind the wall).
 
 ### Deliverable:
-Provide the complete, working code inside a single code block containing the HTML, CSS, and JavaScript. Do not leave any functions empty, do not use comments like "// implement logic here", and do not omit edge cases. It must run immediately when opened in a web browser.
+Write the complete, working code inside a single HTML file containing the HTML, CSS, and JavaScript. Do not leave any functions empty, do not use comments like "// implement logic here", and do not omit edge cases. It must run immediately when opened in a web browser.
 
 Note: You may not have access to a browser, dev server, or vision tools — do not rely on running or visually inspecting the game for verification. Validate by reading and reasoning about the code instead.
 
